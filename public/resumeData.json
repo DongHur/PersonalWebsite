@@ -1,56 +1,36 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "name":"Dong Hur",
+    "occupation":"Harvard Undergrad",
+    "description":"I am a Harard College student concentrating in Neuroscience with a secondary in computer science. My interest lies at the interface between machine learning and human machine interface to improve the current healthcare system",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "bio":"Currently I am a Harvard Undergrad pursuing my study in computational neuroscience to better understand how the human brain learns and function the way it does. My hobby is working on cool project (find out more in my portfolio). I also have a strong passion for education and providing both equity and excellence for all students. It brings me great joy to see people that I teach understand difficult concepts or find excitement in what they learn. Furthermore, I enjoy taking picture going out on a long excursion and taking picture of what the world has to offer (portfolio down below). Lastly, I enjoy compiling great quotes from online, movies, and books that I have read, which I post at the bottom of the page. Feel free to visit often to see new quotes that I found interesting.",
+    "contactmessage":"Feel free to contact me using the following information",
+    "email": "ushur2016@gmail.com",
+    "phone": "817-791-0666",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "street":"4410 Spring Garden Dr.",
+      "city":"Arlington",
+      "state":"TX",
+      "zip": "76016"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://www.donghur.com",
+    "resumedownload":"",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"https://www.facebook.com/dong.hur.73",
         "className":"fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/donghur/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/DongHur",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,106 +38,125 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Harvard University",
+        "degree":"Major: Neuroscience || Minor: Computer Science",
+        "graduated":"April 2020",
+        "description":"Advanced Machine Learning *  Applied Linear Algebra and Big Data * Brains, Identity, & Moral Agency * Circuits, Devices, and Transduction * Electromagnetism and Statistical Physics from an Analytic, Numerical and Experimental Perspective * Introduction to Computer Science * Introduction to Life Science I and II * Introductory Computational Neuroscience * Introductory Mechanics and Relativity Linear * Algebra Multivariable Calculus * Organic Chemistry of Life * Principles of Organic Chemistry"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"",
+        "degree":"",
+        "graduated":"",
+        "description":""
+      }
+    ],
+    "research": [
+      {
+        "Lab": "Murthy's Lab",
+        "Location": "Harvard University",
+        "Time": "August 2018 - Present",
+        "title": "Research Volunteer",
+        "description": "Some Description"
+      },
+      {
+        "Lab": "Sepulcre's Lab",
+        "Location": "Massachusetts General Hospital",
+        "Time": "December 2016 - August 2018",
+        "title": "Research Volunteer",
+        "description": "Some Description"
+      },
+      {
+        "Lab": "Kim's Lab",
+        "Location": "University of Texas at Arlington",
+        "Time": "August 2012 - May 2016",
+        "title": "Research Volunteer",
+        "description": "Some Description"
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bureau of Study Counsel",
+        "title":"Tutor",
+        "years":"August 2018 - Present",
+        "description":"Teach other undergraduates to deepen their understanding of organic chemistry and physiology for bioengineers"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Harvard Student Agency DEV",
+        "title":"Project Manager * Engineer",
+        "years":"May 2017 - May 2018",
+        "description":"Coordinated the Sandbox LetsGo project by allocating work to engineer and collaborating with clients. Monitored and refactored code reviews to maintain a scalable product with an optimized code base. Trained prospective developers on basic frameworks and languages used for app and website development. Programmed mobile apps and websites for clients by collaborating with project manager and designer so that the product meets the client’s need and vision."
       }
     ],
     "skills":[
       {
         "name":"Git",
-        "level":"60%"
-      },
-      {
-        "name":"Illustrator",
-        "level":"55%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
         "level":"90%"
       },
       {
-        "name":"HTML5",
+        "name":"Python",
         "level":"80%"
       },
       {
-        "name":"VueJs",
+        "name": "React & React Native",
+        "level":"80%"
+      },
+      {
+        "name": "PyTorch",
+        "level": "70%"
+      },
+      {
+        "name":"Javascript",
+        "level":"100%"
+      },
+      {
+        "name":"HTML5 & CSS",
+        "level":"100%"
+      },
+      {
+        "name":"Matlab",
+        "level":"100%"
+      },
+      {
+        "name":"Mongo",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
-        "level":"80%"
+        "name":"Microsoft",
+        "level":"90%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
+        "title":"Engineering Project",
+        "category":"Personal project built for fun!",
         "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "url":""
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
+        "title":"Photography Portfolio",
+        "category":"Pictures of nature and friends during my excursion out",
         "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "url":""
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Blog",
+        "category":"[Coming Soon] Where the truth is revealed",
+        "image":"",
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"A man came upon a construction site where three people were working. He asked the first, ‘what are you doing?’ and the man answers, ‘I am laying bricks.’ He asked the second, ‘what are you doing?’ and the man answered, ‘I am building a wall.’ He walked up to the third man, who was humming a tune as he worked and asked, ‘what are you doing?’ and the man stood up and smiled and said, ‘I am building a cathedral. ",
+        "user":"The Story Factor"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"A Ship in Harbor Is Safe, But That Is Not What Ships Are Built For!",
+        "user":"John A. Shedd"
       }
     ]
   }
