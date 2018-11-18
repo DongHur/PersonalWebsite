@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import {Link} from 'react-router-dom';
+
 class Portfolio extends Component {
   render() {
 
@@ -31,6 +33,8 @@ class Portfolio extends Component {
          <div className="twelve columns collapsed">
 
             <h1>Check Out Some of My Works.</h1>
+
+            <Link to='/blog'>Blog</Link>
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}
