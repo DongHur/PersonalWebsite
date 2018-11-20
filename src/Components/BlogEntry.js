@@ -19,6 +19,8 @@ const ending_style = {
 const image_style = {
   borderRadius: '5px', 
   margin:'15px 0px 15px 0px',
+  height: '100%',
+  width: '100%',
 }
 
 class BlogEntry extends Component {
@@ -36,7 +38,7 @@ class BlogEntry extends Component {
       
       // console.log(...text)
       // var parsed_doc = (...text)
-      var image = "images/" + data_i.image;
+      var image = "images/blog/" + data_i.image;
     }
     
     return (

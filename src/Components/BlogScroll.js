@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
 import "./BlogScroll.css";
 
-
 class BlogScroll extends Component {
   
   render() {
@@ -9,15 +8,18 @@ class BlogScroll extends Component {
       var blogs = this.props.data.map((blog, index) => {
         return (
           <div 
-            style={{background: 'url(images/' + blog.image + ')'}}
+            style={{
+              background: 'url(images/blog/' + blog.image + ')',
+              backgroundRepeat: "no-repeat", 
+              backgroundSize: "100% 100%",
+            }}
             className="scroll_entry" 
             onClick={() => this.props.changeBlog(index)}
             key={index}
           >
-            <span>{blog.topic}</span>
-            <span>{blog.description}</span>
-            <span>{blog.date}</span>
-            <span>{blog.author}</span>
+            <span><strong>{blog.topic}</strong></span>
+            <span><strong><i>{blog.description}</i></strong></span>
+            <span><strong>{blog.author} - {blog.date}</strong></span>
           </div>
         )
       })

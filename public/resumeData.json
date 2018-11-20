@@ -130,8 +130,8 @@
     "projects": [
       {
         "title":"Blog",
-        "category":"Personal reflections and comments of pressing issues or everyday life",
-        "image":"canadian-wanderlust.jpg",
+        "category":"Personal reflections and comments of everyday life or any pressing issues",
+        "image":"blog.png",
         "url":"/blog"
       }
     ]
