@@ -13,7 +13,6 @@ class Home extends Component {
   constructor(props){
     super(props);
     this.state = {
-      foo: 'bar',
       resumeData: {}
     };
   }
@@ -23,12 +22,10 @@ class Home extends Component {
       url:'/resumeData.json',
       dataType:'json',
       cache: false,
-      success: function(data){
-        console.log("HELLLLLLLOOOO")
+      success: (data) => {
         this.setState({resumeData: data});
-      }.bind(this),
+      },
       error: function(xhr, status, err){
-        console.log("NOOOOOOOOOOO")
         console.log(err);
         alert(err);
       }
@@ -36,7 +33,6 @@ class Home extends Component {
   }
 
   componentDidMount(){
-    console.log("LOADING!!!!!!!!!")
     this.getResumeData();
   }
 

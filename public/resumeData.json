@@ -129,22 +129,10 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Engineering Project",
-        "category":"Personal project built for fun!",
+        "title":"Blog",
+        "category":"Personal reflections and comments of pressing issues or everyday life",
         "image":"canadian-wanderlust.jpg",
-        "url":""
-      },
-      {
-        "title":"Photography Portfolio",
-        "category":"Pictures of nature and friends during my excursion out",
-        "image":"",
-        "url":""
-      },
-      {
-        "title":"K-12 Education",
-        "category":"Equity and Excellence K-12 Education Dilemna",
-        "image":"",
-        "url":""
+        "url":"/blog"
       }
     ]
   },

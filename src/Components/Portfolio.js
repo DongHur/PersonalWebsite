@@ -10,6 +10,7 @@ class Portfolio extends Component {
         var projectImage = 'images/portfolio/'+projects.image;
         return <div key={projects.title} className="columns portfolio-item">
            <div className="item-wrap">
+            {/*<Link to='/blog'>Blog</Link>     */}
             <a href={projects.url} title={projects.title}>
                <img alt={projects.title} src={projectImage} />
                <div className="overlay">
@@ -34,7 +35,7 @@ class Portfolio extends Component {
 
             <h1>Check Out Some of My Works.</h1>
 
-            <Link to='/blog'>Blog</Link>
+
 
             <div id="portfolio-wrapper" className="bgrid-quarters s-bgrid-thirds cf">
                 {projects}

@@ -1,0 +1,52 @@
+{
+  "main": {
+    "description": "Blog Overview Description"
+  },
+  "blog": [
+    {
+      "topic": "Topic 1",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 18, 2018",
+      "author": "Dong Hur",
+      "text": "All Gaul is divided into three parts, one of which the Belgae inhabit, the Aquitani another, those who in their own language are called Celts, in our Gauls, the third. All these differ from each other in language, customs and laws. The river Garonne separates the Gauls from the Aquitani; the Marne and the Seine separate them from the Belgae. Of all these, the Belgae are the bravest, because they are furthest from the civilization and refinement of [our] Province, and merchants least frequently resort to them, and import those things which tend to effeminate the mind; and they are the nearest to the Germans, who dwell beyond the Rhine, with whom they are continually waging war; for which reason the Helvetii also surpass the rest of the Gauls in valor, as they contend with the Germans in almost daily battles, when they either repel them from their own territories, or themselves wage war on their frontiers. One part of these, which it has been said that the Gauls occupy, takes its beginning at the river Rhone; it is bounded by the river Garonne, the ocean, and the territories of the Belgae; it borders, too, on the side of the Sequani and the Helvetii, upon the river Rhine, and stretches toward the north. The Belgae rises from the extreme frontier of Gaul, extend to the lower part of the river Rhine; and look toward the north and the rising sun. Aquitania extends from the river Garonne to the Pyrenaean mountains and to that part of the ocean which is near Spain: it looks between the setting of the sun, and the north star. "
+    },
+    {
+      "topic": "Topic 2",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 19, 2018",
+      "author": "Dong Hur",
+      "text": "Among the Helvetii, Orgetorix was by far the most distinguished and wealthy. He, when Marcus Messala and Marcus Piso were consuls, incited by lust of sovereignty, formed a conspiracy among the nobility, and persuaded the people to go forth from their territories with all their possessions, [saying] that it would be very easy, since they excelled all in valor, to acquire the supremacy of the whole of Gaul. "
+    },
+    {
+      "topic": "Topic 3",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 20, 2018",
+      "author": "Dong Hur",
+      "text": "Induced by these considerations, and influenced by the authority of Orgetorix, they determined to provide such things as were necessary for their expedition - to buy up as great a number as possible of beasts of burden and wagons - to make their sowings as large as possible, so that on their march plenty of corn might be in store - and to establish peace and friendship with the neighboring states. They reckoned that a term of two years would be sufficient for them to execute their designs; they fix by decree their departure for the third year. Orgetorix is chosen to complete these arrangements. He took upon himself the office of embassador to the states: on this journey he persuades Casticus, the son of Catamantaledes (one of the Sequani, whose father had possessed the sovereignty among the people for many years, and had been styled 'friend' by the senate of the Roman people), to seize upon the sovereignty in his own state, which his father had held before him, and he likewise persuades Dumnorix, an Aeduan, the brother of Divitiacus, who at that time possessed the chief authority in the state, and was exceedingly beloved by the people, to attempt the same, and gives him his daughter in marriage. He proves to them that to accomplish their attempts was a thing very easy to be done, because he himself would obtain the government of his own state; that there was no doubt that the Helvetii were the most powerful of the whole of Gaul; he assures them that he will, with his own forces and his own army, acquire the sovereignty for them. Incited by this speech, they give a pledge and oath to one another, and hope that, when they have seized the sovereignty, they will, by means of the three most powerful and valiant nations, be enabled to obtain possession of the whole of Gaul. "
+    },{
+      "topic": "Topic 3",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 20, 2018",
+      "author": "Dong Hur",
+      "text": "Induced by these considerations, and influenced by the authority of Orgetorix, they determined to provide such things as were necessary for their expedition - to buy up as great a number as possible of beasts of burden and wagons - to make their sowings as large as possible, so that on their march plenty of corn might be in store - and to establish peace and friendship with the neighboring states. They reckoned that a term of two years would be sufficient for them to execute their designs; they fix by decree their departure for the third year. Orgetorix is chosen to complete these arrangements. He took upon himself the office of embassador to the states: on this journey he persuades Casticus, the son of Catamantaledes (one of the Sequani, whose father had possessed the sovereignty among the people for many years, and had been styled 'friend' by the senate of the Roman people), to seize upon the sovereignty in his own state, which his father had held before him, and he likewise persuades Dumnorix, an Aeduan, the brother of Divitiacus, who at that time possessed the chief authority in the state, and was exceedingly beloved by the people, to attempt the same, and gives him his daughter in marriage. He proves to them that to accomplish their attempts was a thing very easy to be done, because he himself would obtain the government of his own state; that there was no doubt that the Helvetii were the most powerful of the whole of Gaul; he assures them that he will, with his own forces and his own army, acquire the sovereignty for them. Incited by this speech, they give a pledge and oath to one another, and hope that, when they have seized the sovereignty, they will, by means of the three most powerful and valiant nations, be enabled to obtain possession of the whole of Gaul. "
+    },{
+      "topic": "Topic 3",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 20, 2018",
+      "author": "Dong Hur",
+      "text": "Induced by these considerations, and influenced by the authority of Orgetorix, they determined to provide such things as were necessary for their expedition - to buy up as great a number as possible of beasts of burden and wagons - to make their sowings as large as possible, so that on their march plenty of corn might be in store - and to establish peace and friendship with the neighboring states. They reckoned that a term of two years would be sufficient for them to execute their designs; they fix by decree their departure for the third year. Orgetorix is chosen to complete these arrangements. He took upon himself the office of embassador to the states: on this journey he persuades Casticus, the son of Catamantaledes (one of the Sequani, whose father had possessed the sovereignty among the people for many years, and had been styled 'friend' by the senate of the Roman people), to seize upon the sovereignty in his own state, which his father had held before him, and he likewise persuades Dumnorix, an Aeduan, the brother of Divitiacus, who at that time possessed the chief authority in the state, and was exceedingly beloved by the people, to attempt the same, and gives him his daughter in marriage. He proves to them that to accomplish their attempts was a thing very easy to be done, because he himself would obtain the government of his own state; that there was no doubt that the Helvetii were the most powerful of the whole of Gaul; he assures them that he will, with his own forces and his own army, acquire the sovereignty for them. Incited by this speech, they give a pledge and oath to one another, and hope that, when they have seized the sovereignty, they will, by means of the three most powerful and valiant nations, be enabled to obtain possession of the whole of Gaul. "
+    },{
+      "topic": "Topic 3",
+      "image": "Image URL",
+      "description": "Short Description",
+      "date": "November 20, 2018",
+      "author": "Dong Hur",
+      "text": "Induced by these considerations, and influenced by the authority of Orgetorix, they determined to provide such things as were necessary for their expedition - to buy up as great a number as possible of beasts of burden and wagons - to make their sowings as large as possible, so that on their march plenty of corn might be in store - and to establish peace and friendship with the neighboring states. They reckoned that a term of two years would be sufficient for them to execute their designs; they fix by decree their departure for the third year. Orgetorix is chosen to complete these arrangements. He took upon himself the office of embassador to the states: on this journey he persuades Casticus, the son of Catamantaledes (one of the Sequani, whose father had possessed the sovereignty among the people for many years, and had been styled 'friend' by the senate of the Roman people), to seize upon the sovereignty in his own state, which his father had held before him, and he likewise persuades Dumnorix, an Aeduan, the brother of Divitiacus, who at that time possessed the chief authority in the state, and was exceedingly beloved by the people, to attempt the same, and gives him his daughter in marriage. He proves to them that to accomplish their attempts was a thing very easy to be done, because he himself would obtain the government of his own state; that there was no doubt that the Helvetii were the most powerful of the whole of Gaul; he assures them that he will, with his own forces and his own army, acquire the sovereignty for them. Incited by this speech, they give a pledge and oath to one another, and hope that, when they have seized the sovereignty, they will, by means of the three most powerful and valiant nations, be enabled to obtain possession of the whole of Gaul. "
+    }
+  ]
+}
