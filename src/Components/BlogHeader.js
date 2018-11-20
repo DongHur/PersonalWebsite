@@ -1,14 +1,5 @@
 import React, {Component} from 'react';
-
-const title_container = {
-  display: 'flex',
-  width: '100%',
-  margin: '10px',
-  flexDirection: 'row',
-  justifyContent: 'space-between',
-};
-const title_style = {
-};
+import './BlogHeader.css';
 
 class BlogHeader extends Component {
   render() {
@@ -16,9 +7,10 @@ class BlogHeader extends Component {
       var description = this.props.data.description;
     }
     return (
-      <section style={title_container} id="BlogHeader">
-        <div>HOME</div>
-        <div style={title_style}>Hur Blog.</div>
+      <section className="title_container" id="BlogHeader">
+        <div><a id="home_button" href='/'>HOME</a></div>
+        <div className="title_style">Hur Blog.</div>
+        <div><a id="home_button" href='/'>DH</a></div>
       </section>
     );
   }

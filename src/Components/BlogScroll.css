@@ -6,9 +6,12 @@
 }
 .scroll_style {
   text-align: center;
+  color: white;
+  font: 1.7em 'opensans-bold', sans-serif;
 }
 .scroll_list_container {
   padding: 2px;
+
 }
 .scroll_entry {
   display: flex;
@@ -20,7 +23,7 @@
   margin: 20px;
   flex: 1;
   cursor: pointer;
-  opacity: 0.7;
+  opacity: 0.8;
   padding: 10px;
   text-align: center;
 }
@@ -30,4 +33,20 @@
 }
 .scroll_entry:hover{
   opacity: 1;
+}
+
+.scroll_container::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+    background: #04C7EC;
+}
+
+.scroll_container::-webkit-scrollbar-thumb {
+    background: #393812;
+    -webkit-border-radius: 1ex;
+    -webkit-box-shadow: 0px 1px 2px rgba(255, 255, 255, 0.75);
+}
+
+.scroll_container::-webkit-scrollbar-corner {
+    background: #000;
 }
