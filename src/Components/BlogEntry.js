@@ -34,7 +34,7 @@ class BlogEntry extends Component {
 
       var $content = $( "#content" )
       var text = $.parseHTML(data_i.text)
-      $content.append( text );
+      $content.empty().append( text );
       
       // console.log(...text)
       // var parsed_doc = (...text)
@@ -45,7 +45,6 @@ class BlogEntry extends Component {
       <section style={entry_container} id="BlogEntry">
         <h3 style={entry_style}>{topic}</h3>
         <img style={image_style}src={image} />
-        {/*<span>{parsed_doc}</span>*/}
         <span id = "content"></span>
         <div style={ending_style}>{author} - {date}</div>
       </section>
