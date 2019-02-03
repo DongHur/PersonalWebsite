@@ -133,6 +133,12 @@
         "category":"Personal reflections and comments of everyday life or any pressing issues",
         "image":"blog.png",
         "url":"/blog"
+      },
+      {
+        "title":"LifeBattery",
+        "category":"LifeBattery",
+        "image":"blog.png",
+        "url":"/lifebattery"
       }
     ]
   },
